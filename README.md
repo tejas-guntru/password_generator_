@@ -1,2 +1,1 @@
-python
-m uhn kj
+earning badge
